@@ -7,7 +7,11 @@ wordList = [
     "banana", "orange", "python", "window", "cloud",
     "river", "mountain", "school", "laptop", "garden",
     "keyboard", "mouse", "screen", "flower", "pencil",
-    "notebook", "bottle", "camera", "bridge", "forest"
+    "notebook", "bottle", "camera", "bridge", "forest",
+    "umbrella", "puzzle", "rocket", "planet", "engine",
+    "guitar", "violin", "castle", "desert", "island",
+    "jungle", "mirror", "pillow", "blanket", "wallet",
+    "ticket", "wallet", "helmet", "cookie", "pocket"
 ]
 randomWord = random.choice(wordList)
 word= []
